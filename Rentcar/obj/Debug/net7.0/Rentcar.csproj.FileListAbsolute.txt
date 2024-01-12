@@ -1,0 +1,15 @@
+C:\dataaaa\Rentcar\Rentcar\bin\Debug\net7.0\Rentcar.exe
+C:\dataaaa\Rentcar\Rentcar\bin\Debug\net7.0\Rentcar.deps.json
+C:\dataaaa\Rentcar\Rentcar\bin\Debug\net7.0\Rentcar.runtimeconfig.json
+C:\dataaaa\Rentcar\Rentcar\bin\Debug\net7.0\Rentcar.dll
+C:\dataaaa\Rentcar\Rentcar\bin\Debug\net7.0\Rentcar.pdb
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.csproj.AssemblyReference.cache
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.AssemblyInfoInputs.cache
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.AssemblyInfo.cs
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.csproj.CoreCompileInputs.cache
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.dll
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\refint\Rentcar.dll
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.pdb
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\Rentcar.genruntimeconfig.cache
+C:\dataaaa\Rentcar\Rentcar\obj\Debug\net7.0\ref\Rentcar.dll
